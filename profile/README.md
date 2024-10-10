@@ -61,6 +61,6 @@ This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](L
 
 ## 📞 Contact
 
-For more information or to get involved, please contact us at [info@hackapet.com](mailto:info@hackapet.com).
+For more information or to get involved, please contact us at [woof@hackapet.com](mailto:woof@hackapet.com).
 
 Together, we can make a difference in the lives of shelter animals! 🐶🐱
