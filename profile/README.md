@@ -1,5 +1,7 @@
 # Hackapet: Open-Source Software Solutions for Animal Shelters
 
+[English](README.md) | [Español](README.es.md)
+
 Hackapet is a free and open-source project dedicated to developing software solutions that optimize animal shelter operations and facilitate pet adoptions. Our mission is to improve the lives of animals in shelters and support the vital work of animal protection organizations.
 
 ## 🐾 What Hackapet Offers
