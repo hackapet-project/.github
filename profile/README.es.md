@@ -53,6 +53,6 @@ Damos la bienvenida a las contribuciones de desarrolladores, diseñadores y entu
 Este proyecto está licenciado bajo la [GNU General Public License v3.0 (GPL-3.0)](LICENSE.md) - consulta el archivo LICENSE para más detalles.
 
 ### 📞 Contacto
-Para más información o para involucrarte, por favor contáctanos en [info@hackapet.com](mailto:info@hackapet.com).
+Para más información o para involucrarte, por favor contáctanos en [guau@hackapet.org](mailto:guau@hackapet.org).
 
 ¡Juntos podemos marcar la diferencia en la vida de los animales de refugio! 🐶🐱
